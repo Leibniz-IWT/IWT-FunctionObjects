@@ -16,7 +16,7 @@ IWT OpenFOAM FunctionObjects Library
 - [OpenFOAM v6](https://openfoam.org/download/source/ "OpenFOAM v6") sourced in the currently open shell
 
 ### Downloading
-- `git clone https://github.com/Leibniz-IWT/viscoInterFlow.git`
+- `git clone https://github.com/Leibniz-IWT/IWT-FunctionObjects.git`
 
 or
 - Manually download and extract the release zip archive
