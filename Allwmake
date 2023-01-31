@@ -1,0 +1,22 @@
+#!/bin/sh
+
+# See contribution instructions before making changes
+
+mkdir lnInclude
+
+cd lnInclude
+
+# DO NOT CHANGE ANYTHING ABOVE THIS LINE
+
+ln -s ../surfaceArea/surfaceArea.C
+ln -s ../surfaceArea/surfaceArea.H
+ln -s ../phaseVolumeBox/phaseVolumeBox.C
+ln -s ../phaseVolumeBox/phaseVolumeBox.H
+ln -s ../phaseVolumeClustering/phaseVolumeClustering.C
+ln -s ../phaseVolumeClustering/phaseVolumeClustering.H
+
+# DO NOT CHANGE ANYTHING BELOW THIS LINE
+
+cd ..
+
+wmake

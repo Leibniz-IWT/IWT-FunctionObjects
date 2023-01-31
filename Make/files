@@ -1,0 +1,10 @@
+/* See contribution instructions before making changes */
+
+/* functionObjects to be compilled */
+surfaceArea/surfaceArea.C
+phaseVolumeBox/phaseVolumeBox.C
+velocityAverageBox/velocityAverageBox.C
+phaseVolumeClustering/phaseVolumeClustering.C
+
+/* DO NOT CHANGE ANYTHING BELOW THIS LINE */
+LIB = $(FOAM_USER_LIBBIN)/libiwtFunctionObjects
