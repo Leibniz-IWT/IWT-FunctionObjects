@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/590906854.svg)](https://zenodo.org/badge/latestdoi/590906854)
 
-# IWT-FunctionObjects
+# IWT-FunctionObjects for OpenFOAM
 IWT OpenFOAM FunctionObjects Library
 
 ## Contributing Instructions
