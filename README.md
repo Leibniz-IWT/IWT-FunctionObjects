@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/590906854.svg)](https://zenodo.org/badge/latestdoi/590906854)
+
 # IWT-FunctionObjects
 IWT OpenFOAM FunctionObjects Library
 
