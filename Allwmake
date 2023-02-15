@@ -12,6 +12,8 @@ ln -s ../surfaceArea/surfaceArea.C
 ln -s ../surfaceArea/surfaceArea.H
 ln -s ../phaseVolumeBox/phaseVolumeBox.C
 ln -s ../phaseVolumeBox/phaseVolumeBox.H
+ln -s ../velocityAverageBox/velocityAverageBox.C
+ln -s ../velocityAverageBox/velocityAverageBox.H
 ln -s ../phaseVolumeClustering/phaseVolumeClustering.C
 ln -s ../phaseVolumeClustering/phaseVolumeClustering.H
 
